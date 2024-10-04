@@ -10,7 +10,7 @@ More sorting algorithms in java
 - Requires extra space (not in-place).
 - Stable algorithm.
 
-Counting Sort
+## Counting Sort
 Time Complexity:
 Best, Average, and Worst: O(n + k), where k is the range of input values.
 Key Points:
