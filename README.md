@@ -11,7 +11,7 @@ More sorting algorithms in java
 - Stable algorithm.
 
 ## Counting Sort
-Time Complexity:
+### Time Complexity:
 Best, Average, and Worst: O(n + k), where k is the range of input values.
 Key Points:
 Suitable for small ranges of integer data.
