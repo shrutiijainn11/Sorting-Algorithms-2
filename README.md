@@ -17,4 +17,4 @@ More sorting algorithms in java
 - Suitable for small ranges of integer data.
 - Non-comparative algorithm that counts the occurrences of each element and calculates positions.
 - Requires extra space.
-Stable sorting algorithm.
+- Stable sorting algorithm.
