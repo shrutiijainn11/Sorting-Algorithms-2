@@ -13,7 +13,7 @@ More sorting algorithms in java
 ## Counting Sort
 ### Time Complexity:
 - Best, Average, and Worst: O(n + k), where k is the range of input values.
-Key Points:
+### Key Points:
 Suitable for small ranges of integer data.
 Non-comparative algorithm that counts the occurrences of each element and calculates positions.
 Requires extra space.
