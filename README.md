@@ -22,7 +22,7 @@ More sorting algorithms in java
 ## TimSort
 ### Time Complexity:
 - Best: O(n)
-Average: O(n log n)
+- Average: O(n log n)
 Worst: O(n log n)
 Key Points:
 Hybrid sorting algorithm (used in Python and Java).
