@@ -20,7 +20,7 @@ More sorting algorithms in java
 - Stable sorting algorithm.
 
 ## TimSort
-Time Complexity:
+### Time Complexity:
 Best: O(n)
 Average: O(n log n)
 Worst: O(n log n)
