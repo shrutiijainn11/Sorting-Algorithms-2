@@ -21,7 +21,7 @@ More sorting algorithms in java
 
 ## TimSort
 ### Time Complexity:
-Best: O(n)
+- Best: O(n)
 Average: O(n log n)
 Worst: O(n log n)
 Key Points:
