@@ -19,7 +19,7 @@ More sorting algorithms in java
 - Requires extra space.
 - Stable sorting algorithm.
 
-TimSort
+## TimSort
 Time Complexity:
 Best: O(n)
 Average: O(n log n)
