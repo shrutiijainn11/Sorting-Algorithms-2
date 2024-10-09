@@ -24,7 +24,7 @@ More sorting algorithms in java
 - Best: O(n)
 - Average: O(n log n)
 - Worst: O(n log n)
-Key Points:
+### Key Points:
 Hybrid sorting algorithm (used in Python and Java).
 Combination of merge sort and insertion sort.
 Highly efficient for real-world data that has some order.
