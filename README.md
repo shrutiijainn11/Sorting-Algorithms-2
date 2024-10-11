@@ -29,7 +29,7 @@ More sorting algorithms in java
 - Combination of merge sort and insertion sort.
 - Highly efficient for real-world data that has some order.
 
-Shell Sort
+## Shell Sort
 Time Complexity:
 Best: O(n log n)
 Average: O(n^(3/2)) or O(n^2), depending on the gap sequence
