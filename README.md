@@ -30,7 +30,7 @@ More sorting algorithms in java
 - Highly efficient for real-world data that has some order.
 
 ## Shell Sort
-Time Complexity:
+### Time Complexity:
 Best: O(n log n)
 Average: O(n^(3/2)) or O(n^2), depending on the gap sequence
 Worst: O(n²)
