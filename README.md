@@ -32,7 +32,7 @@ More sorting algorithms in java
 ## Shell Sort
 ### Time Complexity:
 - Best: O(n log n)
-Average: O(n^(3/2)) or O(n^2), depending on the gap sequence
+- Average: O(n^(3/2)) or O(n^2), depending on the gap sequence
 Worst: O(n²)
 Key Points:
 Variation of Insertion Sort that allows the exchange of far-apart elements.
