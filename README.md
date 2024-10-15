@@ -34,7 +34,7 @@ More sorting algorithms in java
 - Best: O(n log n)
 - Average: O(n^(3/2)) or O(n^2), depending on the gap sequence
 - Worst: O(n²)
-Key Points:
+### Key Points:
 Variation of Insertion Sort that allows the exchange of far-apart elements.
 Uses a gap sequence (e.g., Knuth sequence), where elements are compared and swapped if needed at spaced intervals.
 The gap is reduced gradually until it becomes 1, at which point it performs a final Insertion Sort.
