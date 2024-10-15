@@ -33,7 +33,7 @@ More sorting algorithms in java
 ### Time Complexity:
 - Best: O(n log n)
 - Average: O(n^(3/2)) or O(n^2), depending on the gap sequence
-Worst: O(n²)
+- Worst: O(n²)
 Key Points:
 Variation of Insertion Sort that allows the exchange of far-apart elements.
 Uses a gap sequence (e.g., Knuth sequence), where elements are compared and swapped if needed at spaced intervals.
