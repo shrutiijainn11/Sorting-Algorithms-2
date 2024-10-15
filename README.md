@@ -39,4 +39,4 @@ More sorting algorithms in java
 - Uses a gap sequence (e.g., Knuth sequence), where elements are compared and swapped if needed at spaced intervals.
 - The gap is reduced gradually until it becomes 1, at which point it performs a final Insertion Sort.
 - More efficient than Insertion Sort for larger datasets but sensitive to the choice of gap sequence.
-In-place sorting (requires no extra space) but not a stable algorithm.
+- In-place sorting (requires no extra space) but not a stable algorithm.
